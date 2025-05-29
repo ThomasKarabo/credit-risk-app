@@ -49,7 +49,7 @@ This project is a Credit Risk Classification Web App built with a machine learni
    git clone https://github.com/yourusername/credit-risk-model.git```
 2. Navigate into the project:
 ```
-cd Credit-Risk-Model
+cd credit-risk-model
 ```
 3. Install dependencies:
 ```
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 4. Run the Streamlit app:
 ```
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 ## 🙋🏽 About the Author
 Thomas Karabo
